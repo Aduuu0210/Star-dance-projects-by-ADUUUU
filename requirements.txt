@@ -1,1 +1,1 @@
-mysql pre-installed 
+mysql-connector-python
